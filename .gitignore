@@ -47,3 +47,16 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# RStudio project file
+*.Rproj
+
+# Data 
+Data
+
+# Reports
+*.pdf
+*.xlsx
+*.jpg
+*.png
+*.tif
